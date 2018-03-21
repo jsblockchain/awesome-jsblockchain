@@ -1,6 +1,14 @@
 A collection of awesome things regarding Javascript/Blockchain ecosystem.
 
-https://codeburst.io/dapp-scratch-a-cli-for-building-dapps-and-tutorial-for-building-your-first-one-5cabdff3771e
+---
+### Etherium
+* [Etherium Home Page](https://www.ethereum.org/)
+* [Etherium Subreddit](https://www.reddit.com/r/ethereum/)
+
+---
+### Solidity
+* [Solidity](https://solidity.readthedocs.io/en/v0.4.21/)
+* [Remix IDE](https://remix.ethereum.org/)
 
 ---
 ### Frameworks
@@ -8,28 +16,13 @@ https://codeburst.io/dapp-scratch-a-cli-for-building-dapps-and-tutorial-for-buil
 * [Vue.js: Progressive web Javascript framework](https://vuejs.org/)
 * [React: A JavaScript library for building user interfaces](https://reactjs.org/)
 * [Angular: One framework, web, mobile, desktop](https://angular.io/)
-* []()
-* []()
-* []()
 
 ---
 ### Libraries
 * [Dapp Scratch: a CLI for generating javascript modules from Solidity Contracts](https://github.com/okwme/dapp-scratch)
 * [Ethers: Complete Ethereum wallet implementation and library in JavaScript.](https://github.com/L4ventures/ethers.js)
 * [Web3: Ethereum JavaScript API](https://github.com/ethereum/web3.js/)
-* [Interplanetary File System (IPFS) HTTP API, implemented in JavaScript.
-](https://github.com/ipfs/js-ipfs-api)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-
----
-### 
+* [Interplanetary File System (IPFS) HTTP API, implemented in JavaScript.](https://github.com/ipfs/js-ipfs-api)
 
 ---
 ### Tutorials
@@ -40,13 +33,6 @@ https://codeburst.io/dapp-scratch-a-cli-for-building-dapps-and-tutorial-for-buil
 * [The Hitchhiker’s Guide to Smart Contracts in Ethereum](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 * [Tips & tricks with Web3 events](https://medium.com/@ScarceBits/tips-tricks-with-web3-events-ee8d7b05143f)
 * [Build a simple Ethereum + InterPlanetary File System (IPFS)+ React.js DApp.](https://itnext.io/build-a-simple-ethereum-interplanetary-file-system-ipfs-react-js-dapp-23ff4914ce4e)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 
 ---
 ### Articles
@@ -54,9 +40,6 @@ https://codeburst.io/dapp-scratch-a-cli-for-building-dapps-and-tutorial-for-buil
 * [Mechanism Design Security in Smart Contracts](https://medium.com/@matthewdif/mechanism-design-security-in-smart-contracts-87f08555b38b)
 * [https://media.consensys.net/7-pro-tips-for-keeping-your-crypto-safe-6dfb6fef7ab9](https://media.consensys.net/7-pro-tips-for-keeping-your-crypto-safe-6dfb6fef7ab9)
 * [Designing the architecture for your Ethereum application](https://blog.zeppelin.solutions/designing-the-architecture-for-your-ethereum-application-9cec086f8317)
-* [https://thecontrol.co/a-brief-overview-of-dapp-development-b8ac1648322c](https://thecontrol.co/a-brief-overview-of-dapp-development-b8ac1648322c)
-* []()
-* []()
-* []()
-* []()
-* []()
+* [A Brief Overview of dApp Development](https://thecontrol.co/a-brief-overview-of-dapp-development-b8ac1648322c)
+* [Tips For a New Ethereum DApp Developer](https://medium.com/@petkanics/tips-for-a-new-ethereum-dapp-developer-bb451bde8625)
+* [Upgradable Solidity Contract Design](https://medium.com/rocket-pool/upgradable-solidity-contract-design-54789205276d)
